@@ -1,5 +1,3 @@
-# RELATÓRIO
-
 ## DINÂMICA
 
 Em uma mesa circular, existem 5 filósofos, todos alternando entre:
