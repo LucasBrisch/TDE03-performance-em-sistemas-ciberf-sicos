@@ -42,6 +42,7 @@ Arquivos principais:
 
 Arquivos:
 - [`DeadlockDemo.java`](src/deadlock/DeadlockDemo.java) - Demonstração prática de deadlock e sua solução
+- [`Explicacao-Deadlock.md`](/src/deadlock/Explicacao-Deadlock.md) - Explicação teórica do deadlock e da solução.
 
 **Conceitos demonstrados:**
 - Criação de deadlock usando synchronized e dois locks
