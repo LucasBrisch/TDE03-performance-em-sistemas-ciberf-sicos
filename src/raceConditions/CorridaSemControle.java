@@ -1,4 +1,4 @@
-// Versão com condição de corrida (sem sincronização)
+package raceConditions;// Versão com condição de corrida (sem sincronização)
 
 // This code is a race condition so all the threads are going to race
 // for resources and because of the lack of synchronization we are going

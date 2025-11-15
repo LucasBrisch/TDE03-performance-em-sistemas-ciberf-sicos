@@ -1,4 +1,4 @@
-// Versão correta com Semaphore binário justo
+package raceConditions;// Versão correta com Semaphore binário justo
 
 import java.util.concurrent.*;
 

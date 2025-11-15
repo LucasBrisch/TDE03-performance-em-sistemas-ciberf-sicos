@@ -24,7 +24,7 @@ Esperado=2000000, Obtido=2000000, Tempo=5.931s
 
 ### 1. **Corretude vs. Desempenho**
 
-#### Sem Sincronização (CorridaSemControle)
+#### Sem Sincronização (raceConditions.CorridaSemControle)
 - **Corretude**: ❌ Falha catastrófica
   - Esperado: 2.000.000 incrementos
   - Obtido: 376.077 (apenas **18,8%** do esperado)
@@ -34,7 +34,7 @@ Esperado=2000000, Obtido=2000000, Tempo=5.931s
   - Tempo: **0.057 segundos**
   - Throughput altíssimo, mas resultados inválidos
 
-#### Com Semáforo (CorridaComSemaphore)
+#### Com Semáforo (raceConditions.CorridaComSemaphore)
 - **Corretude**: ✅ 100% preciso
   - Esperado: 2.000.000 incrementos
   - Obtido: 2.000.000 (exatamente o esperado)
