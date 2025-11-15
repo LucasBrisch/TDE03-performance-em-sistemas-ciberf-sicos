@@ -1,4 +1,4 @@
-# TDE03 de Performance em Sistemas Ciberfísicos
+# TDE03 - Performance em Sistemas Ciberfísicos
 
 ## Integrantes
 - Lucas Brisch Zanlorenzi  
@@ -6,5 +6,5 @@
 - Giovani Nota Simões  
 
 ## Link do Vídeo
-*(link do video)*
+[*(Vídeo Explicando o Trabalho)*](https://youtu.be/eMqRHOkGPWg)
 
